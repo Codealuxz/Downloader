@@ -1,6 +1,4 @@
-# Fichiers exécutables
-*.exe
-*.msi
+
 
 # Fichiers système
 .DS_Store
